@@ -17,7 +17,7 @@ def index() -> rx.Component:
                         rx.link(
                         
                                 rx.image(src="/Venta_dominio.jpg"),
-                                rx.text("Contactar con Jaitarbloo@yahoo.es ",size="5"),
+                                rx.text("Contactar con jaitardev@gmail.com ",size="5"),
                                 href="https://jaitarbloo.com"
                                 ),
 
