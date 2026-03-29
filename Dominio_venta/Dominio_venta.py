@@ -28,5 +28,5 @@ def index() -> rx.Component:
        
 
 
-app = rx.App()
+app = rx.App(html_lang="es" )
 app.add_page(index, title="Dominio en venta")
